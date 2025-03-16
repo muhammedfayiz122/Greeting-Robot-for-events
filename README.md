@@ -78,13 +78,13 @@ Greeting-Robot-for-events/
 
 The robot exhibits different behaviors based on various scenarios. Here are some captured behaviors:
 
-![ANGRY](images/ANGRY.jpg)
-![CONFUSED](images/CONFUSED.jpg)
-![DEAD](images/DEAD.jpg)
-![HAPPY](images/HAPPY.jpg)
-![NEUTRAL](images/NEUTRAL.jpg)
-![SAD](images/SAD.jpg)
-![SURPRISED](images/SURPRISED.jpg)
+![ANGRY](images/ANGRY.png)
+![CONFUSED](images/CONFUSED.png)
+![DEAD](images/DEAD.png)
+![HAPPY](images/HAPPY.png)
+![NEUTRAL](images/NEUTRAL.png)
+![SAD](images/SAD.png)
+![SURPRISED](images/SURPRISED.png)
 
 ## Contributing
 
