@@ -1,6 +1,6 @@
 # Greeting Robot for Events
 
-![Robot Image 1](images/1.jpg)
+![Robot Image 1](robot_images/1.jpg)
 
 ## Overview
 
@@ -61,7 +61,7 @@ The Greeting Robot for Events is designed to enhance guest experiences by provid
 ```
 Greeting-Robot-for-events/
 ├── haarcascades/         # Contains Haar Cascade classifiers for face detection
-├── images/               # Directory for storing images (e.g., 1.jpg, 2.jpg, 3.jpg)
+├── images/               # Directory for storing images (e.g., 1.jpg, 2.jpg, 3.jpg, behavior1.jpg, behavior2.jpg, behavior3.jpg, behavior4.jpg, behavior5.jpg, behavior6.jpg)
 ├── model/                # Pre-trained models for facial recognition
 ├── main.py               # Main script for running the robot with hardware
 ├── without_hardware.py   # Script for running the robot without hardware
@@ -70,9 +70,21 @@ Greeting-Robot-for-events/
 
 ## Images
 
-![Robot Image 2](images/2.jpg)
+![Robot Image 2](robot_images/2.jpg)
 
-![Robot Image 3](images/3.jpg)
+![Robot Image 3](robot_images/3.jpg)
+
+## Robot Behaviors
+
+The robot exhibits different behaviors based on various scenarios. Here are some captured behaviors:
+
+![ANGRY](images/ANGRY.jpg)
+![CONFUSED](images/CONFUSED.jpg)
+![DEAD](images/DEAD.jpg)
+![HAPPY](images/HAPPY.jpg)
+![NEUTRAL](images/NEUTRAL.jpg)
+![SAD](images/SAD.jpg)
+![SURPRISED](images/SURPRISED.jpg)
 
 ## Contributing
 
